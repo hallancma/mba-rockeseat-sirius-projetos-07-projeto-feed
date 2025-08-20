@@ -30,7 +30,7 @@ A interface conta com **estilização via CSS Modules**, datas formatadas com **
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/projeto-feed
+   git clone https://github.com/hallancma/mba-rockeseat-sirius-projetos-07-projeto-feed
    ```
 2. Acesse a pasta do projeto:
    ```bash
@@ -66,6 +66,6 @@ A interface conta com **estilização via CSS Modules**, datas formatadas com **
 ## Ver Projeto
 
 Para ver em funcionamento (após rodar localmente):  
-http://localhost:5173/
+[http://localhost:5173/](https://projetofeed.hallanchristian.com.br/)
 
 ---
