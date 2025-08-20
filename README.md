@@ -65,7 +65,7 @@ A interface conta com **estilização via CSS Modules**, datas formatadas com **
 
 ## Ver Projeto
 
-Para ver em funcionamento (após rodar localmente):  
-[http://localhost:5173/](https://projetofeed.hallanchristian.com.br/)
+Para ver em funcionamento:  
+[https://projetofeed.hallanchristian.com.br/](https://projetofeed.hallanchristian.com.br/)
 
 ---
