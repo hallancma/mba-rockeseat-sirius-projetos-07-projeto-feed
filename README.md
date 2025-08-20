@@ -2,7 +2,7 @@
 
 Projeto Feed é uma aplicação web construída em **React ^19.1.1 + Vite** que simula um feed de posts, com perfil, comentários e likes.
 
-[![Screenshot do Projeto](public/screenshot.png)](http://localhost:5173)
+[![Screenshot do Projeto](public/imageProjeto.png)](https://projetofeed.hallanchristian.com.br/)
 
 ## Visão Geral
 
